@@ -1,0 +1,2 @@
+# workouts
+Django workouts project
